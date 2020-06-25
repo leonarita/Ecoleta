@@ -23,7 +23,7 @@ Para o frontend, foram utilizadas ferramentas como axios, react-icons e react-ro
 
 ### Mobile
 
-Para o mobile, foram utilizadas ferramentas como axios, react-native-maps, expo-location, expo-mail-composer. Possui trÊs telas: a tela inicial, a tela de busca de ponto de coleta (pelo mapa) e a tela de informações do ponto de coleta.
+Para o mobile, foram utilizadas ferramentas como axios, react-native-maps, expo-location, expo-mail-composer. Possui três telas: a tela inicial, a tela de busca de ponto de coleta (pelo mapa) e a tela de informações do ponto de coleta.
 
 <br>
 <img src="/server/uploads/foto3.png">
