@@ -9,19 +9,23 @@ Nessa semana, foi desenvolvido uma aplicação full stack integrando backend (co
 
 <br>
 <img src="/server/uploads/foto1.png">
+<br>
 
-### Backend
+### 1. Backend
 
 Para o backend, foram utilizadas ferramentas como express, knex, SQLite3, cors, multer e celebrate. Foram feitas as models, controllers, validação de dados, suporte para upload de imagens, conexão com banco de dados e criação das rotas.
 
-### Frontend
+<br>
+
+### 2. Frontend
 
 Para o frontend, foram utilizadas ferramentas como axios, react-icons e react-router-dom. Possui duas telas: a tela inicial e a tela de cadastro de ponto de coleta.
 
 <br>
 <img src="/server/uploads/foto2.png">
+<br>
 
-### Mobile
+### 3. Mobile
 
 Para o mobile, foram utilizadas ferramentas como axios, react-native-maps, expo-location, expo-mail-composer. Possui três telas: a tela inicial, a tela de busca de ponto de coleta (pelo mapa) e a tela de informações do ponto de coleta.
 
