@@ -1,4 +1,4 @@
-# Projeto Ecoleta
+# Projeto "Ecoleta"
 
 <br>
 <img src="/web/src/assets/logo.svg">
