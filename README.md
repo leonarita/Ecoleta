@@ -33,3 +33,8 @@ Para o mobile, foram utilizadas ferramentas como axios, react-native-maps, expo-
 <img src="/server/uploads/foto3.png">
 
 _Obs: Por limitação do meu emulador do android, eu não consegui usar o gps e, por isso, configurei para que o mapa seja direcionado para minha localidade (endereço)._
+
+<br>
+<br>
+
+_Caso queira ver a versão simplificada, [clique aqui](https://github.com/leonarita/Ecoleta-Web)_
