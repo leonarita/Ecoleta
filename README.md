@@ -17,14 +17,24 @@ A linguagem de programação utilizada foi o **`Typescript`**.
 
 Para o backend, foram utilizadas ferramentas como `express`, `knex`, `SQLite3`, `cors`, `multer` e `celebrate`. 
 <br>
-Foram feitas as models, controllers, validação de dados, suporte para upload de imagens, conexão com banco de dados e criação das rotas.
+<br>
+Foram feitas as seguintes funcionalidades:
+  1. Models;
+  2. Controllers;
+  3. Conexão com banco de dados;
+  4. Criação das rotas;
+  5. Validação de dados; 
+  6. Suporte para upload de imagens.
 
 <br>
 
 ### 2. Frontend
 
 Para o frontend, foram utilizadas ferramentas como `axios`, `react-icons` e `react-router-dom`. 
-<br>Possui duas telas: a tela inicial e a tela de cadastro de ponto de coleta.
+<br>
+<br>Possui duas telas: 
+  1. Tela inicial;
+  2. Tela de cadastro de ponto de coleta.
 
 <br>
 <img src="/server/uploads/foto2.png">
@@ -36,7 +46,11 @@ Foi utilizando o React-Native com o `Expo` para a criação da aplicação mobil
 <br>
 Para o mobile, foram utilizadas ferramentas como `axios`, `react-native-maps`, `expo-location`, `expo-mail-composer`. 
 <br>
-Possui três telas: a tela inicial, a tela de busca de ponto de coleta (pelo mapa) e a tela de informações do ponto de coleta.
+<br>
+Possui três telas: 
+  1. Tela inicial;
+  2. Tela de busca de ponto de coleta (pelo mapa) ;
+  3. Tela de informações do ponto de coleta.
 
 <br>
 <img src="/server/uploads/foto3.png">
