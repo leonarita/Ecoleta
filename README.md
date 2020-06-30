@@ -7,6 +7,7 @@
 
 Nessa semana, foi desenvolvido uma aplicação full stack integrando backend (com NodeJS), frontend (com ReactJS) e mobile (com React-Native). 
 <br>
+<br>
 A linguagem de programação utilizada foi o **`Typescript`**.
 
 <br>
