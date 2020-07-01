@@ -11,7 +11,7 @@ Nessa semana, foi desenvolvido uma aplicação full stack integrando backend (co
 A linguagem de programação utilizada foi o **`Typescript`**.
 
 <br>
-<img src="/server/uploads/foto1.png">
+<img src="/uploads/foto1.png">
 <br>
 
 ### 1. Backend
@@ -38,7 +38,7 @@ Para o frontend, foram utilizadas ferramentas como `axios`, `react-icons` e `rea
   2. Tela de cadastro de ponto de coleta.
 
 <br>
-<img src="/server/uploads/foto2.png">
+<img src="/uploads/foto2.png">
 <br>
 
 ### 3. Mobile
@@ -54,7 +54,7 @@ Possui três telas:
   3. Tela de informações do ponto de coleta.
 
 <br>
-<img src="/server/uploads/foto3.png">
+<img src="/uploads/foto3.png">
 
 _Obs: Por limitação do meu emulador do android, eu não consegui usar o gps e, por isso, configurei para que o mapa seja direcionado para minha localidade (endereço)._
 
