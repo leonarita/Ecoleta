@@ -9,6 +9,9 @@ Nessa semana, foi desenvolvido uma aplicação full stack integrando backend (co
 <br>
 <br>
 A linguagem de programação utilizada foi o **`Typescript`**.
+<br>
+<br>
+Projeto cujo objetivo é cadastrar pontos de coletas de recipientes para que sejam coletados devidamente em prol ao meio ambiente.
 
 <br>
 <img src="/uploads/foto1.png">
